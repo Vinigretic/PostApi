@@ -7,7 +7,7 @@ The API also allows you to search for articles on a topic of interest and create
 
 1. Install Python 3.11
 2. Clone the repository:
-    git clone https://github.com/Vinigretic/ApiPost
+    git clone https://github.com/Vinigretic/PostApi
    
 3. Install dependencies:
     pip install -r requirements.txt
